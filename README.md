@@ -1,4 +1,4 @@
-# CSE5544 Final Project
+# CSE5544
 
 This project contains environment, dataset, and all code files. 
 
